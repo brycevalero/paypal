@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PaypalIntegration</string>
+    <string name="title_activity_confirmation">ConfirmationActivity</string>
+</resources>
